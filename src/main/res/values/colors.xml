@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F7F7F7</color>
+    <color name="font1">#0F0F0F</color>
+    <color name="font2">#757575</color>
+    <color name="font3">#B8B6B6</color>
+    <color name="theme">#004225</color>
+    <color name="warn">#FF0000</color>
+    <color name="link">#4285F4</color>
+
+</resources>
